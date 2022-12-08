@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Utdom Saw, @letuki
+- 👀 I’m interested in software engineering, web development, cybersecurity, and digital forensics
+- 🌱 I’m currently learning cybersecurity and digital forensics at Nanyang Polytechnic
+- 💞️ I’m looking to collaborate on web applications and other software.
+- 📫 How to reach me:
+-     Email: utdomsaw@gmail.com
